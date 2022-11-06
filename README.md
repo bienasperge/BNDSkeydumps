@@ -5,3 +5,6 @@ When there are rules, there are workarounds.
 2. get a CUID tag
 3. download the dump file.
 4. Write it in.
+
+### Disclaimer
+USE THIS AT YOUR OWN RISK. NOTHING COME WITHOUT CONSEQUENCES.
