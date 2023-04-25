@@ -1,5 +1,6 @@
 # BNDSkeydumps
-When there are rules, there are workarounds.
+O P E N S E S A M E
+
 ### How To
 1. get any rfid/nfc reader/writer, i recommend PCR532
 2. get a CUID tag
@@ -7,4 +8,4 @@ When there are rules, there are workarounds.
 4. Write it in.
 
 ### Disclaimer
-USE THIS AT YOUR OWN RISK. NOTHING COME WITHOUT CONSEQUENCES.
+This will exist when I give a fuck.
